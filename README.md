@@ -1,0 +1,2 @@
+# MIS
+Modeliranje informacionih Lidija 
